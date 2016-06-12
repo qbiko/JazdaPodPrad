@@ -128,6 +128,7 @@ namespace JazdaPodPrad
                 trapCar1 = new Car(new Vector2(x[0], -140), TextureList);
                 trapCar2 = new Car(new Vector2(x[2], -280), TextureList);
                 trapCar3 = new Car(new Vector2(x[4], -420), TextureList);
+                toNextLevel = 30;
                 stop = false;
             }
 
