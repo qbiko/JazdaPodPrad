@@ -1,1 +1,1 @@
-Do prawid³owego uruchomienia projektu potrzebna jest zainstalowana biblioteka MONOGAME.
+Do prawid³owego uruchomienia projektu potrzebny jest zainstalowany przy VisualStudio framework MONOGAME. Mo¿na go pobraæ ze strony http://www.monogame.net/downloads/. Gra polega na omijaniu jad¹cych w naszym kierunku samochodów.
